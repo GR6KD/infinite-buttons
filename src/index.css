@@ -1,0 +1,54 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: linear-gradient(135deg, #141e30, #243b55);
+  height: 100vh;
+  overflow: hidden;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  position: relative;
+}
+
+.gameTitle {
+  position: absolute;
+  top: 15%;
+  width: 100%;
+  text-align: center;
+  font-size: 2.5rem;
+  color: white;
+  opacity: 0.18;
+  pointer-events: none;
+}
+
+.mainButton {
+  padding: 12px 24px;
+  font-size: 18px;
+  border: none;
+  border-radius: 8px;
+  background: #6bc5ff;
+  color: white;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.mainButton:hover {
+  transform: scale(1.08);
+}
+
+.randomButton {
+  padding: 8px 14px;
+  border: none;
+  border-radius: 6px;
+  color: white;
+  cursor: pointer;
+  font-size: 14px;
+}
