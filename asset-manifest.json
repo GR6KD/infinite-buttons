@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/infinite-buttons/static/css/main.a9be421f.css",
+    "main.js": "/infinite-buttons/static/js/main.f272b4b7.js",
+    "static/js/453.bd93db7f.chunk.js": "/infinite-buttons/static/js/453.bd93db7f.chunk.js",
+    "index.html": "/infinite-buttons/index.html",
+    "main.a9be421f.css.map": "/infinite-buttons/static/css/main.a9be421f.css.map",
+    "main.f272b4b7.js.map": "/infinite-buttons/static/js/main.f272b4b7.js.map",
+    "453.bd93db7f.chunk.js.map": "/infinite-buttons/static/js/453.bd93db7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9be421f.css",
+    "static/js/main.f272b4b7.js"
+  ]
+}
